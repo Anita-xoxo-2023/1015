@@ -6,6 +6,10 @@ c=a*b
 
 print(c)
 
-print(a)
+def add(a,b):
+
+
+a-b
+
 
 
